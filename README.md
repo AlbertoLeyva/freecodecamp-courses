@@ -7,7 +7,7 @@
 - [x]  Cafe Menu
 - [x]  Colored Markers
 - [x]  Registration Form
-- [ ]  Survey Form
+- [x]  Survey Form
 
 *Second Block*
 - [ ]  Rothko Painting
