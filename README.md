@@ -10,7 +10,7 @@
 - [x]  Survey Form
 
 *Second Block*
-- [ ]  Rothko Painting
+- [x]  Rothko Painting
 - [ ]  Photo Gallery
 - [ ]  Nutrition Label
 - [ ]  Building a Quiz
