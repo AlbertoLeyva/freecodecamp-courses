@@ -11,9 +11,9 @@
 
 *Second Block*
 - [x]  Rothko Painting
-- [ ]  Photo Gallery
-- [ ]  Nutrition Label
-- [ ]  Building a Quiz
+- [x]  Photo Gallery
+- [x]  Nutrition Label
+- [x]  Building a Quiz
 - [ ]  Tribute Page
 
 *Third Block*
