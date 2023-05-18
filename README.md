@@ -14,12 +14,12 @@
 - [x]  Photo Gallery
 - [x]  Nutrition Label
 - [x]  Building a Quiz
-- [ ]  Tribute Page
+- [x]  Tribute Page
 
 *Third Block*
-- [ ]  Balance Sheet
-- [ ]  Picasso Painting
-- [ ]  Piano
+- [x]  Balance Sheet
+- [x]  Picasso Painting
+- [x]  Piano
 - [ ]  Technical Documentation Page
 
 *Fourth Block*
