@@ -20,7 +20,7 @@
 - [x]  Balance Sheet
 - [x]  Picasso Painting
 - [x]  Piano
-- [ ]  Technical Documentation Page
+- [x]  Technical Documentation Page
 
 *Fourth Block*
 - [ ]  City Skyline
