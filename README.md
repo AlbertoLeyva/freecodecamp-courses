@@ -23,9 +23,9 @@
 - [x]  Technical Documentation Page
 
 *Fourth Block*
-- [ ]  City Skyline
-- [ ]  Magazine
-- [ ]  Product Landing Page
+- [x]  City Skyline
+- [x]  Magazine
+- [x]  Product Landing Page
 
 *Fifth Block*
 - [ ]  Ferris Wheel

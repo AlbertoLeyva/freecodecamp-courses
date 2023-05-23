@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://use.fontawesome.com/releases/v6.4.0/css/all.css" rel="stylesheet">
+        <title>El Pollo Yon</title>
+    </head>
+    <body>
+        <header id="header">
+            <img src="https://pbs.twimg.com/profile_images/662396837945475072/fQCLVz2R_400x400.png" alt="pollo yon logo" id="header-img">
+            <nav id="nav-bar">
+                <ul>
+                    <li>
+                        <a href="#intro" class="nav-link">¿Qué es El Pollo Yon?</a>
+                    </li>
+                    <li>
+                        <a href="#features" class="nav-link">Ventajas</a>
+                    </li>
+                    <li>
+                        <a href="#sub" class="nav-link">Sucríbete</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="intro">
+                <h1>¿Qué es El Pollo Yon?</h1>
+                <h2>¡Atrévete a probarlo!</h2>
+                <iframe
+                    id="video" 
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/TmuEXXl27P8" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen>
+                </iframe>
+            </section>
+            <hr>
+            <section id="features">
+                <h1>¿Qué nos hace diferentes?</h1>
+                <div class="fts">
+                    <div class="ft">
+                        <i class="fa-solid fa-kiwi-bird"></i>
+                        <h2>Pollos frescos</h2>
+                    </div>
+                    <div class="ft">
+                        <i class="fa-solid fa-kiwi-bird"></i>
+                        <h2>Desde Granjas el Pollón</h2>
+                    </div>
+                    <div class="ft">
+                        <i class="fa-solid fa-kiwi-bird"></i>
+                        <h2>Auto-Yon disponible 24/7</h2>
+                    </div>
+                </div>
+            </section>
+            <hr>
+            <section id="sub">
+                <h1>¿Quiéres saber más?</h1>
+                <form action="https://www.freecodecamp.com/email-submit" method="post" id="form">
+                    <input type="email" name="email" id="email" placeholder="Métele tu email..." required>
+                    <input type="submit" value="Púchale" id="submit">
+                </form>
+            </section>
+        </main>
+    </body>
+</html>
