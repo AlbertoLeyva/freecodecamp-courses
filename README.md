@@ -29,7 +29,7 @@
 
 *Fifth Block*
 - [x]  Ferris Wheel
-- [ ]  Penguin
+- [x]  Penguin
 - [ ]  Portfolio Webpage
 
 *More courses on the wait ...*
