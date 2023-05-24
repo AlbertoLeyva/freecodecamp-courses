@@ -28,7 +28,7 @@
 - [x]  Product Landing Page
 
 *Fifth Block*
-- [ ]  Ferris Wheel
+- [x]  Ferris Wheel
 - [ ]  Penguin
 - [ ]  Portfolio Webpage
 
