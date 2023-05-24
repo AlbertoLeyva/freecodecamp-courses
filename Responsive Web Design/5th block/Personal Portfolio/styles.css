@@ -1,0 +1,136 @@
+:root {
+    --light-brown: #F1E0C5;
+    --medium-brown: #C9B79C;
+    --green: #71816D;
+    --pink: #DA667B;
+    --dark-brown: #342A21;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+html {
+    font-family: Bahnschrift;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: var(--dark-brown);
+    height: 10vh;
+}
+
+#navbar  ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    width: 500px;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar a {
+    color: var(--light-brown);
+}
+
+#welcome-section {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--green);
+    color: var(--light-brown);
+}
+
+#projects {
+    background-color: var(--pink);
+    padding: 0 2rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-tile {
+    background-color: var(--medium-brown);
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px
+}   
+
+.project-tile img {
+    width: 90%;
+}   
+
+.project-tile p {
+    margin: auto;
+    color: var(--dark-brown);
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#links {
+    background-color: var(--green);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10vh;
+    color: var(--dark-brown);
+}
+
+.icons-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.icon-link {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: var(--light-brown);
+    font-size: 2em;
+}
+
+@media (max-width: 800px) {
+    .icon-link {
+        flex-direction: column;
+        align-items: center;
+
+    }
+}
